@@ -11,5 +11,8 @@ Pemrograman Web 2 _ Inventory Management _ Muhammad Dena _ 21552011440 _ TIF RM 
 8. php artisan storage:link
 9. npm install
 10. php artisan serve for running project
+11. user login :
+    email : test@test.com
+    password : 12345678
 
 *this project can use laragon/wampp/xampp
